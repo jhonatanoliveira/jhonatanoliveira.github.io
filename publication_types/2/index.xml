@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Personal Website</title>
+    <link>https://jhonatanoliveira.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://jhonatanoliveira.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Empirical Study of Bayesian Network Inference with Simple Propagation.</title>
+      <link>https://jhonatanoliveira.github.io/publication/butz-2018-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/publication/butz-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Testing Independencies in Bayesian Networks using rp-Separation.</title>
+      <link>https://jhonatanoliveira.github.io/publication/butz-2018-1-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/publication/butz-2018-1-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a Simple Method for Testing Independencies in Bayesian Networks.</title>
+      <link>https://jhonatanoliveira.github.io/publication/butz-2018-2-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/publication/butz-2018-2-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Darwinian Networks.</title>
+      <link>https://jhonatanoliveira.github.io/publication/butz-2017-2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/publication/butz-2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network Inference using Marginal Trees.</title>
+      <link>https://jhonatanoliveira.github.io/publication/butz-2016-2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/publication/butz-2016-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

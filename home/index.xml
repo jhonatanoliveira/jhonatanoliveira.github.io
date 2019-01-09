@@ -31,11 +31,11 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://jhonatanoliveira.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <title>Skills</title>
+      <link>https://jhonatanoliveira.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://jhonatanoliveira.github.io/home/publications/</guid>
+      <guid>https://jhonatanoliveira.github.io/home/skills/</guid>
       <description></description>
     </item>
     
@@ -49,16 +49,25 @@
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://jhonatanoliveira.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <title>Publications</title>
+      <link>https://jhonatanoliveira.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://jhonatanoliveira.github.io/home/skills/</guid>
+      <guid>https://jhonatanoliveira.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Publications</title>
+      <link>https://jhonatanoliveira.github.io/home/publications_jounal/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/home/publications_jounal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Experience</title>
       <link>https://jhonatanoliveira.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -67,11 +76,11 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://jhonatanoliveira.github.io/home/publications_selected/</link>
+      <title>Projects</title>
+      <link>https://jhonatanoliveira.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://jhonatanoliveira.github.io/home/publications_selected/</guid>
+      <guid>https://jhonatanoliveira.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -81,6 +90,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhonatanoliveira.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jhonatanoliveira.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://jhonatanoliveira.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://jhonatanoliveira.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
@@ -112,15 +139,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://jhonatanoliveira.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://jhonatanoliveira.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Custom Section</title>
       <link>https://jhonatanoliveira.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
@@ -136,15 +154,6 @@ To remove this section, either delete content/home/teaching.md or edit the front
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>https://jhonatanoliveira.github.io/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://jhonatanoliveira.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>https://jhonatanoliveira.github.io/home/contact/</guid>
       <description></description>
     </item>
     
